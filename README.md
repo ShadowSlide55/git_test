@@ -1,1 +1,1 @@
-# git_test
+This is kdś first git project
